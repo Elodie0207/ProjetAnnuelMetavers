@@ -4,5 +4,22 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8f13adc0c62e6d34ba57da11749b77bb,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e622853bc71c11744ba9664380fdc5bd,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 89983b4b9a61f04419429eb558454349,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 9bcbc742e1ddb014487e4823c809f958,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: a15b3fb779574854eac98515e5ab2f24,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8a19033d5eaa045418ae247b5952a7d2,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 09e7f503af0078745b42e30e56185b2a,
+      type: 2}
